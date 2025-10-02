@@ -1,0 +1,74 @@
+{
+    "sourceFile": "style.css",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 14,
+            "patches": [
+                {
+                    "date": 1759376176752,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                },
+                {
+                    "date": 1759376186444,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -44,6 +44,6 @@\n     align-items: center;\r\n }\r\n \r\n div{\r\n-    border: 2px solid #000;\r\n+    \r\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1759376197175,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -41,9 +41,7 @@\n     width: 450px;\r\n     display: flex;\r\n     justify-content: space-evenly;\r\n     align-items: center;\r\n+    \r\n }\r\n \r\n-div{\r\n-    \r\n\\ No newline at end of file\n-}\n"
+                },
+                {
+                    "date": 1759376219031,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -41,7 +41,7 @@\n     width: 450px;\r\n     display: flex;\r\n     justify-content: space-evenly;\r\n     align-items: center;\r\n-    \r\n+    border: 1px solid rgba(0,0,0,0.1);\r\n }\r\n \r\n"
+                },
+                {
+                    "date": 1759376224794,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -41,7 +41,7 @@\n     width: 450px;\r\n     display: flex;\r\n     justify-content: space-evenly;\r\n     align-items: center;\r\n-    border: 1px solid rgba(0,0,0,0.1);\r\n+    border: 2px solid rgba(0,0,0,0.1);\r\n }\r\n \r\n"
+                },
+                {
+                    "date": 1759376232304,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -41,7 +41,7 @@\n     width: 450px;\r\n     display: flex;\r\n     justify-content: space-evenly;\r\n     align-items: center;\r\n-    border: 2px solid rgba(0,0,0,0.1);\r\n+    border: 2px solid rgba(0, 0, 0, 0.566);\r\n }\r\n \r\n"
+                },
+                {
+                    "date": 1759376241345,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -41,7 +41,7 @@\n     width: 450px;\r\n     display: flex;\r\n     justify-content: space-evenly;\r\n     align-items: center;\r\n-    border: 2px solid rgba(0, 0, 0, 0.566);\r\n+    border: 2px solid rgba(0, 0, 0, 0.475);\r\n }\r\n \r\n"
+                },
+                {
+                    "date": 1759376248538,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -44,4 +44,7 @@\n     align-items: center;\r\n     border: 2px solid rgba(0, 0, 0, 0.475);\r\n }\r\n \r\n+\r\n+\r\n+\r\n"
+                },
+                {
+                    "date": 1759376450880,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -37,9 +37,9 @@\n .box {\r\n     background: rgb(255, 34, 18);\r\n     color: #fff;\r\n     height: 50px;\r\n-    width: 450px;\r\n+    width: 490px;\r\n     display: flex;\r\n     justify-content: space-evenly;\r\n     align-items: center;\r\n     border: 2px solid rgba(0, 0, 0, 0.475);\r\n"
+                },
+                {
+                    "date": 1759376510158,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -37,9 +37,9 @@\n .box {\r\n     background: rgb(255, 34, 18);\r\n     color: #fff;\r\n     height: 50px;\r\n-    width: 490px;\r\n+    width: 600px;\r\n     display: flex;\r\n     justify-content: space-evenly;\r\n     align-items: center;\r\n     border: 2px solid rgba(0, 0, 0, 0.475);\r\n"
+                },
+                {
+                    "date": 1759376515839,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -37,9 +37,9 @@\n .box {\r\n     background: rgb(255, 34, 18);\r\n     color: #fff;\r\n     height: 50px;\r\n-    width: 600px;\r\n+    width: 550px;\r\n     display: flex;\r\n     justify-content: space-evenly;\r\n     align-items: center;\r\n     border: 2px solid rgba(0, 0, 0, 0.475);\r\n"
+                },
+                {
+                    "date": 1759376565508,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -37,9 +37,9 @@\n .box {\r\n     background: rgb(255, 34, 18);\r\n     color: #fff;\r\n     height: 50px;\r\n-    width: 550px;\r\n+    width: 530px;\r\n     display: flex;\r\n     justify-content: space-evenly;\r\n     align-items: center;\r\n     border: 2px solid rgba(0, 0, 0, 0.475);\r\n"
+                },
+                {
+                    "date": 1759376571396,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -37,9 +37,9 @@\n .box {\r\n     background: rgb(255, 34, 18);\r\n     color: #fff;\r\n     height: 50px;\r\n-    width: 530px;\r\n+    width: 535px;\r\n     display: flex;\r\n     justify-content: space-evenly;\r\n     align-items: center;\r\n     border: 2px solid rgba(0, 0, 0, 0.475);\r\n"
+                },
+                {
+                    "date": 1759376602175,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -37,14 +37,14 @@\n .box {\r\n     background: rgb(255, 34, 18);\r\n     color: #fff;\r\n     height: 50px;\r\n-    width: 535px;\r\n+    width: 545px;\r\n     display: flex;\r\n     justify-content: space-evenly;\r\n     align-items: center;\r\n     border: 2px solid rgba(0, 0, 0, 0.475);\r\n }\r\n \r\n-\r\n-\r\n-\r\n+div:hover{\r\n+    background: rgb(183, 24, 12)\r\n+}\r\n"
+                },
+                {
+                    "date": 1759376625659,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -44,7 +44,4 @@\n     align-items: center;\r\n     border: 2px solid rgba(0, 0, 0, 0.475);\r\n }\r\n \r\n-div:hover{\r\n-    background: rgb(183, 24, 12)\r\n-}\r\n"
+                }
+            ],
+            "date": 1759376176752,
+            "name": "Commit-0",
+            "content": "@import url(\"https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap\");\r\n\r\n*{\r\n    margin: 0;\r\n    padding: 0;\r\n    box-sizing: border-box;\r\n    font-family: \"Poppins\",sans-serif;\r\n}\r\n\r\nbody{\r\n    display: flex;\r\n   justify-content: center;\r\n   align-items: center;\r\n    height: 100vh;\r\n    width: 100%;\r\n    background: linear-gradient(to bottom right, rgb(255, 139, 50), rgb(255, 34, 18));\r\n}\r\n\r\n.page{\r\n   display: flex;\r\n   justify-content: center;\r\n   align-items: center;\r\n   flex-direction: column;\r\n   background: #fff;\r\n   width: 580px;\r\n   height: 202px;\r\n}\r\n\r\nh1 {\r\n    padding: 0 20px;\r\n}\r\n\r\np {\r\n    margin-bottom: 20px;\r\n}\r\n\r\n.box {\r\n    background: rgb(255, 34, 18);\r\n    color: #fff;\r\n    height: 50px;\r\n    width: 450px;\r\n    display: flex;\r\n    justify-content: space-evenly;\r\n    align-items: center;\r\n}\r\n\r\ndiv{\r\n    border: 2px solid #000;\r\n}"
+        }
+    ]
+}
